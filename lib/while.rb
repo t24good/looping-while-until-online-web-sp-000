@@ -3,5 +3,5 @@ def using_while
 
   #your code here
   puts "Wingardium Leviosa"
-  while_until += 3
+  levitation_force -= 4
 end
